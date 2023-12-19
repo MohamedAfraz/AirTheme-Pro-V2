@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "airtheme-pro-v2" extension will be documented in this file.
+All notable changes to the "Air Theme Pro V2" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [Release v5.4.2]
 
-## [Unreleased]
-
-- Initial release
+- Major 2024 Color Theme Update
+- Best Version
+- Stable Version
